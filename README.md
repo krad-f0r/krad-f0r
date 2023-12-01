@@ -11,3 +11,5 @@
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,visualstudio,vscode,linux)](https://skillicons.dev)
 
 [![](https://visitcount.itsvg.in/api?id=Lavender-exe&icon=7&color=8)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krad-f0r&label=Profile%20views&color=0e75b6&style=flat" alt="krad-f0r" /> </p>
