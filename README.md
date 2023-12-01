@@ -9,3 +9,5 @@
 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,visualstudio,vscode,linux)](https://skillicons.dev)
+
+[![](https://visitcount.itsvg.in/api?id=Lavender-exe&icon=7&color=8)](https://visitcount.itsvg.in)
